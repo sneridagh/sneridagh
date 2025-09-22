@@ -2,9 +2,9 @@ Active in the IT industry since 1998, involving several disciplines ranging from
 
 I've spent the early years of my professional career being linked to the university environment where I was working for more than 15 years. I'm very familiar with a university needs, its insides and outs and the day to day operations in academic environments. Lately focused delivering enterprise level solutions for German private sector research institutions and government as well, leading the kitconcept GmbH team, as technology director and lead developer.
 
-Involved with the Open Source community since 2005, especially with the Python-based Plone CMS (http://plone.org) community, contributing with code, organizing sprints and attending Plone Conferences as speaker. Organizer of the Barcelona Plone Conference 2017 (https://2017.ploneconf.org) held at the Universitat Politècnica de Catalunya.
+Involved with the Open Source community since 2005, especially with the Plone CMS (http://plone.org) community, contributing with code, organizing sprints and attending Plone Conferences as speaker. Organizer of the Barcelona Plone Conference 2017 (https://2017.ploneconf.org) held at the Universitat Politècnica de Catalunya.
 
-Leader of the Plone's new ReactJS-based frontend, [Volto](https://github.com/plone/volto). Currently serving the Plone community as Plone Volto Release Manager, Volto Team Leader, Plone Foundation Board of Directors Member, and active member of the community.
+Leader of the Plone's ReactJS-based frontend, [Volto](https://github.com/plone/volto) and its successor [Seven](https://github.com/plone/volto/tree/seven). Currently serving the Plone community as Plone Volto Release Manager, Volto Team Leader, and active member of the community.
 
 On 2010 I authored a book called "Plone 3 Intranets", published by Packt Publishing. It was targeted to beginners and users with no previous experience about Plone who wants to learn to design, build and deploy a reliable, full-featured, and secure Plone-based intranet easily from scratch.
 
